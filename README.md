@@ -1,2 +1,2 @@
 # Shodan-scripts
-Some scripts to use with Shodan search engine
+Collection of scripts to use with Shodan search engine Python API.
