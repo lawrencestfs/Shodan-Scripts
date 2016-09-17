@@ -1,5 +1,7 @@
-# ics_crawler.py
+# -*- coding: utf-8 -*-
+# File Name: ics_crawler.py
 # Author: Lawrence Fernandes
+# This Python script uses the Shodan REST API to search for ICS related devices.
 
 import shodan
 import sys
