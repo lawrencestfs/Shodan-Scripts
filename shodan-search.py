@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-#Author: Lawrence Fernandes
-#This Python script uses the Shodan REST API to search for devices and saves the results in a file
+# Author: Lawrence Fernandes
+# This Python script uses the Shodan REST API to search for devices and saves the results in a file.
 
 import shodan
 import sys
