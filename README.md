@@ -1,2 +1,2 @@
 # Shodan-Scripts
-Collection of scripts to use with Shodan (infosec search engine) REST Python API.
+Collection of scripts to use with Shodan (infosec search engine) Python REST API.
